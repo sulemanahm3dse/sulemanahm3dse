@@ -7,9 +7,9 @@ Welcome to my GitHub profile! I'm a detail-oriented and curious developer from *
 ---
 
 ## 🌐 Socials
-- 💼 [LinkedIn](https://linkedin.com/in/sulemanahmedrajput)  
-- 🐦 [Twitter](https://twitter.com/sulemanahmedrajput)  
-- 📧 Email: sulemanahmedrajput@example.com *(replace with your real email)*  
+-  [LinkedIn](https://linkedin.com/in/sulemanahmedrajput)  
+-  [Twitter](https://twitter.com/sulemanahmedrajput)  
+-  Email: [sulemanahmedse@gmail.com](mailto:sulemanahmedse@gmail.com)* 
 
 ---
 
@@ -29,23 +29,24 @@ Welcome to my GitHub profile! I'm a detail-oriented and curious developer from *
 ## 🚀 Featured Projects
 - 🔗 [url-shortener](https://github.com/sulemanahm3dse/url-shortener) – A simple and efficient URL shortener built with TypeScript.  
 - 🤖 [gemini-ai-sdk](https://github.com/sulemanahm3dse/gemini-ai-sdk) – SDK for AI integrations.  
-- 📚 [course-platform](https://github.com/sulemanahm3dse/course-platform) – Online learning platform with TypeScript.  
-- ✅ [todo-app-with-auth](https://github.com/sulemanahm3dse/todo-app-with-auth) – Secure to-do app with authentication.  
-- 🏢 [hrms-application](https://github.com/sulemanahm3dse/hrms-application) – Human Resource Management System.  
+- 📚 [course-platform](https://github.com/sulemanahm3dse/course-platform) – Online learning platform with TypeScript **(In Progress)**. 
+- 🏢 [hrms-application](https://github.com/sulemanahm3dse/hrms-application) – Human Resource Management System **(In Progress)**.  
 
 ---
 
 ## 🧠 What I’m Learning
-- Advanced UX/UI design principles  
-- Cloud-native development with Docker & Compose  
-- Deepening knowledge in math, physics, and logic circuits  
+- Building **scalable and distributed systems** with modern tools like Apache Kafka  
+- Exploring **cloud-native architectures** and containerization for resilient applications  
+- Enhancing skills in **software engineering best practices** including clean code, testing, and CI/CD  
+- Diving deeper into **system design principles** for high-performance applications  
+
 
 ---
 
 ## 🎯 Fun Facts
-- I enjoy breaking down complex problems into simple, visual solutions.  
-- I love creating educational resources like exam papers and MCQs.  
-- I thrive on clarity, efficiency, and accessibility in tech.  
+- I’m fascinated by designing **scalable systems** and love exploring how technology can solve real-world problems.  
+- I enjoy turning complex challenges into **clear, visual solutions** that anyone can understand.  
+- I thrive on building tools and applications that emphasize **clarity, efficiency, and accessibility**.  
 
 ---
 
