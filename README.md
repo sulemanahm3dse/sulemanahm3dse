@@ -21,8 +21,7 @@ Welcome to my GitHub profile! I'm a detail-oriented and curious developer from *
 ---
 
 ## 📊 GitHub Stats
-![Suleman's GitHub stats](https://github-readme-stats.vercel.app/api?username=sulemanahm3dse&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sulemanahm3dse&layout=compact&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com?user=sulemanahm3dse&theme=dark&hide_border=true&short_numbers=true)](https://git.io/streak-stats)
 
 
 ---
