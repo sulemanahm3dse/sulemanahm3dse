@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a detail-oriented and curious developer from *
 ## 🌐 Socials
 -  [LinkedIn](https://linkedin.com/in/sulemanahmedrajput)  
 -  [Twitter](https://twitter.com/sulemanahmedrajput)  
--  Email: [sulemanahmedse@gmail.com](mailto:sulemanahmedse@gmail.com)* 
+-  [sulemanahmedse@gmail.com](mailto:sulemanahmedse@gmail.com)
 
 ---
 
