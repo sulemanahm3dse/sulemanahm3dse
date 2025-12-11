@@ -20,12 +20,6 @@ Welcome to my GitHub profile! I'm a detail-oriented and curious developer from *
 
 ---
 
-## 📊 GitHub Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=sulemanahm3dse&theme=dark&hide_border=true&short_numbers=true)](https://git.io/streak-stats)
-
-
----
-
 ## 🚀 Featured Projects
 - 🔗 [url-shortener](https://github.com/sulemanahm3dse/url-shortener) – A simple and efficient URL shortener built with TypeScript.  
 - 🤖 [gemini-ai-sdk](https://github.com/sulemanahm3dse/gemini-ai-sdk) – SDK for AI integrations.  
