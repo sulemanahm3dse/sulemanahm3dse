@@ -33,15 +33,6 @@ I am a software engineer focused on building scalable web applications and intui
 
 ---
 
-### 📊 GitHub Analytics
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=sulemanahmedrajput&show_icons=true&theme=radical&hide_border=true" alt="Suleman's Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sulemanahmedrajput&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="150" />
-</p>
-
----
-
 ### 📫 Connect with me
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/suleman-ahmed-6641442a4/)
